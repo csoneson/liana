@@ -92,4 +92,5 @@ Suggests:
 biocViews: scater, scran, SingleCellExperiment, ComplexHeatmap, muscData, ExperimentHub
 Remotes: sqjin/CellChat, saezlab/OmnipathR, saezlab/decoupleR, LTLA/basilisk.utils, LTLA/basilisk
 RoxygenNote: 7.2.1
+StagedInstall: no
 Config/testthat/edition: 3
